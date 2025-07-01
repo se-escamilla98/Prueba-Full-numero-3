@@ -34,10 +34,4 @@ public class Duenos {
     private String telefono;
 
 
-    public Object getNombre() {
-    }
-
-    public void setNombre(Object nombre) {
-
-    }
 }
